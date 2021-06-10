@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Ticker - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Ticker component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/ticker)
+- [Info Page](https://codyhouse.co/ds/components/info/ticker)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
